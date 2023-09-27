@@ -3,8 +3,7 @@
 
 ## About
 
-A development of a personal blog using MERN stack (Mongo DB, Express, React and Node). I wanted to start blogging my dev experiences and projects I am working on but many free blog sights were clunky and too frustrating to use. So I decided to build my own.
-
+Api for AmbiBlog
 
 ## To Do
   * ~~Create Post functionality~~
